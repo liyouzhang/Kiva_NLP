@@ -31,4 +31,3 @@ We choose to use NMF model for its advantage at reducing dimensionality. It also
 
 - exclude Spanish descriptions 
 - strip out Kiva translation template copy
-
